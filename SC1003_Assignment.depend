@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637651753 source:c:\school\y1\sem1\sc1003_intro_computational_thinking\2nd_half\assignment\sc1003_assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
